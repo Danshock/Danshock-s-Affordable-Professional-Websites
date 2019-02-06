@@ -1,9 +1,16 @@
 # Danshock's Affordable-Professional-Websites
+
 ### Home
-![Image of Danshock's Website, Home](https://imgur.com/78aEzlH)
+![](images/1.png)
 
 ### About
-![Image of Danshock's Website, About](https://imgur.com/0s8d21g)
+![](images/2.png)
 
 ### Services
-![Image of Danshock's Website, Services](https://imgur.com/OsrMrEz)
+![](images/3.png)
+
+
+
+
+
+  
